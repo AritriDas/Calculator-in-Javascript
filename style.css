@@ -1,0 +1,30 @@
+.container {
+    margin-top: 30vh;
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    
+}
+.title{ 
+    margin-bottom: 10px; 
+    text-align: center;
+    text-align:center; 
+    width: 210px; 
+    color:rgb(19, 19, 110); 
+    border: solid white 2px; 
+    } 
+
+input[type="button"] 
+    { 
+    background-color: rgb(19, 19, 110); 
+    color: white; 
+    border: solid white 2px; 
+    width:100% 
+    } 
+
+input[type="text"] 
+    { 
+    background-color:white; 
+    /* border: solid black 2px;  */
+    width:100% 
+    } 
